@@ -24,37 +24,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.RawImage
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 23
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 33
-      Script: {instanceID: 0}
-    - Class: 43
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
-    - Class: 65
-      Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
     Assets/miniMapWork.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -619,7 +588,6 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   platform: 19
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
   - Assets/miniMapWork.unity
   playerPath: C:/Users/30055010/Documents/GitHub/WorkingMiniMapPac/AT02_PacmanV1/Builds/Build
     2 Prototype/AT02_PacmanV1.exe
