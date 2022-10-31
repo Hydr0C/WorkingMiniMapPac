@@ -4,9 +4,9 @@ ScriptsOnlyBuild:
     - Blinky
     - CameraController
     - Clyde
+    - FollowScript
     - GameManager
     - Inky
-    - MMScript
     - Pacman
     - Pinky
     Unity.Rider.Editor.dll:
@@ -543,7 +543,7 @@ ScriptsOnlyBuild:
       Hash: 65b3a3b9a7779d539ec75a3ceddebdba
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: MMScript
+    className: FollowScript
   - hash:
       serializedVersion: 2
       Hash: 051e8c28ed09904f2c838d4d2c7e25b9
@@ -590,4 +590,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/miniMapWork.unity
   playerPath: C:/Users/30055010/Documents/GitHub/WorkingMiniMapPac/AT02_PacmanV1/Builds/Build
-    2 Prototype/AT02_PacmanV1.exe
+    3 Base Fn/AT02_PacmanV1.exe
